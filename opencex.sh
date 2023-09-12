@@ -18,10 +18,10 @@ fi
 
 mkdir /app/opencex -p
 cd /app/opencex || exit
-git clone https://github.com/Polygant/OpenCEX-backend.git ./backend
-git clone https://github.com/Polygant/OpenCEX-frontend.git ./frontend
-git clone https://github.com/Polygant/OpenCEX-static.git ./nuxt
-git clone https://github.com/Polygant/OpenCEX-JS-admin.git ./admin
+git clone https://github.com/crypto-ba/OpenCEX-backend.git ./backend
+git clone https://github.com/crypto-ba/OpenCEX-frontend.git ./frontend
+git clone https://github.com/crypto-ba/OpenCEX-static.git ./nuxt
+git clone https://github.com/crypto-ba/OpenCEX-JS-admin.git ./admin
 
 echo "`cat <<YOLLOPUKKI
 
