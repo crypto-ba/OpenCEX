@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://polygant.net/opencex/" target="_blank">
-    <img alt="OpenCEX Logo" width="500" src="https://github.com/Polygant/OpenCEX/blob/master/logo.png">
+    <img alt="OpenCEX Logo" width="500" src="https://github.com/crypto-ba/OpenCEX/blob/master/logo.png">
   </a>
 </p>
 
